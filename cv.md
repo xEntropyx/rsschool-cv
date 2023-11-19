@@ -3,13 +3,13 @@
 ## Contact Information  
  *Phone*: [(+48) 565-666-000](tel:565666000)  
  
- *E-mail*: [izabela.pogwizd@gmail.com](izabela.pogwizd@gmail.com) 
+ *E-mail*: [izabela.pogwizd@gmail.com](mailto:izabela.pogwizd@gmail.com) 
  
- *Discord*: xEntropy  
+ *Discord*: [xEntropy](https://discord.com/app)
 
  *GitHub*: [xEntropyx](https://github.com/xEntropyx)  
  
- *LinkedIn*: [My Profile](https://www.linkedin.com/in/izabela-pogwizd/)  
+ *LinkedIn*: [Izabela Pogwizd](https://www.linkedin.com/in/izabela-pogwizd/)  
 
 ## Summary
 
