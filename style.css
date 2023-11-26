@@ -1,1 +1,14 @@
-
+#main {
+	background-color: #A19B99;
+	width: 80%;
+	text-align: center;
+	margin:auto;
+	margin-top: 30px;
+	margin-bottom: 10px;
+	padding:30px
+}
+	
+#footer {
+	margin:auto;
+	text-align:center;
+}
